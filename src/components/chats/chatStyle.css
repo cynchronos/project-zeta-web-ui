@@ -1,0 +1,4 @@
+.contact-scrollbar:hover::-webkit-scrollbar-thumb {
+  transition: background 1s ease;
+  background: #555; 
+}
