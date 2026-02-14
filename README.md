@@ -4,6 +4,11 @@ Welcome to **Project Zeta**, a modern, AI-powered communication dashboard design
 
 ![Dashboard Preview](/public/assets/images/bg%20dashboard.webp)
 
+> [!WARNING]
+> **This project is currently under active development.**
+> Features may change, and you may encounter bugs. A stable release is coming soon.
+
+
 ## 🌟 About This App
 
 Project Zeta is built to provide a futuristic communication experience.
