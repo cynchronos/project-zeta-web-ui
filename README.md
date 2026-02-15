@@ -2,21 +2,21 @@
 
 Welcome to **Project Zeta**, a modern, AI-powered communication dashboard designed for seamless interaction with both human contacts and AI characters. This application features a premium dark-mode interface, real-time messaging, and immersive voice call capabilities.
 
-![Dashboard Preview](/public/assets/images/bg%20dashboard.webp)
+![Dashboard Preview](/public/assets/images/cover-demo.jpeg)
 
 > [!WARNING]
 > **This project is currently under active development.**
 > Features may change, and you may encounter bugs. A stable release is coming soon.
 
 
-## 🌟 About This App
+## About This App
 
 Project Zeta is built to provide a futuristic communication experience.
 -   **Unified Dashboard**: Access your chats, calls, and project analytics in one sleek interface.
 -   **AI Integration**: Chat and voice call with advanced AI characters that respond in real-time.
 -   **Premium UI**: Enjoy a carefully crafted dark theme with glassmorphism effects, smooth animations, and a focus on visual hierarchy.
 
-## ✨ Key Features
+## Key Features
 
 -   **Modern Dashboard**: A data-rich overview with interactive widgets.
 -   **Real-time Chat**:
@@ -29,7 +29,7 @@ Project Zeta is built to provide a futuristic communication experience.
 -   **Responsive Design**: Fully responsive sidebar and layout for various screen sizes.
 -   **Security**: Secure authentication and data handling via Supabase.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Core Framework**:
 -   [Next.js 15](https://nextjs.org/) (App Router)
@@ -46,7 +46,7 @@ Project Zeta is built to provide a futuristic communication experience.
 -   [Supabase](https://supabase.com/) (Auth & Database)
 -   [Socket.io Client](https://socket.io/) (Real-time messaging)
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to set up the project locally.
 
@@ -93,7 +93,7 @@ Follow these instructions to set up the project locally.
 5.  **Open the app**:
     Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 src/
@@ -113,7 +113,7 @@ src/
 └── assets/               # Static assets (images, icons)
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -123,6 +123,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
